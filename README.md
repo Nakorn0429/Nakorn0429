@@ -1,6 +1,6 @@
 
 
-preview
+
 <h1 align="center">Hi 👋, I'm Nakorn</h1>
 <h3 align="center">A passionate Fullstack developer from Thailand</h3>
 
